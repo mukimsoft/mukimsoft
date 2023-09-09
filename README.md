@@ -1,7 +1,7 @@
 ![Software Engineer & Graphics Designer](https://photos.google.com/search/_tra_/photo/AF1QipND21gFSr0hIAuAWuEKSEbzksW_cFe4U1Tmq_J8)
 
 <h1 align="center">Hi 👋, I'm Mahdin Islam Mukim</h1>
-<h3 align="center">I'm a student of Compuer Science & Engineering. I'm a Web & Software Developer and Graphics Designer.</h3>
+<h3 align="center">I'm still a student of Compuer Science & Engineering. I'm a Web & Software Developer and Graphics Designer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukimsoft&label=Profile%20views&color=0e75b6&style=flat" alt="mukimsoft" /> </p>
 
