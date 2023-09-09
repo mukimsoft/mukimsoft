@@ -1,8 +1,8 @@
 <img align="right" height="470" src="https://scontent.fdac15-1.fna.fbcdn.net/v/t39.30808-6/377466824_707704721373363_6409351078308589722_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=49d041&_nc_ohc=MmXdWJ5lkckAX-ct-9-&_nc_ht=scontent.fdac15-1.fna&oh=00_AfAPGQ2GFm65cShrmKdTIa0RFWTEZNy37yIl55PReT0RFw&oe=65006C44"  />
 
 
-<h1 align="left">Hi 👋! <br>I'm Mahdin Islam Mukim</h1>
-<h3 align="left">I'm still a student of Compuer Science & Engineering</h3>
+<h1 center="left">Hi 👋! <br>I'm Mahdin Islam Mukim</h1>
+<h3 center="left">I'm still a student of Compuer Science & Engineering</h3>
 
 ###
 
