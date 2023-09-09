@@ -1,11 +1,15 @@
-<h2 align="left">Hi 👋!<br>I'm Mahdin Islam Mukim and I'm still a student of Compuer Science & Engineering</h2>
+<img align="right" height="270" src="https://scontent.fdac15-1.fna.fbcdn.net/v/t39.30808-6/377466824_707704721373363_6409351078308589722_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=49d041&_nc_ohc=MmXdWJ5lkckAX-ct-9-&_nc_ht=scontent.fdac15-1.fna&oh=00_AfAPGQ2GFm65cShrmKdTIa0RFWTEZNy37yIl55PReT0RFw&oe=65006C44"  />
+
+
+<h1 align="left">Hi 👋! <br>I'm Mahdin Islam Mukim</h1>
+<h3 align="left">I'm still a student of Compuer Science & Engineering</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukimsoft&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=mukimsoft&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mukimsoft&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mukimsoft&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=mukimsoft&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mukimsoft&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -50,6 +54,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
 </div>
 
 ###
