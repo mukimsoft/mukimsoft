@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Mahdin Islam Mukim and I'm still a student of Compuer Science & Engineering</h2>
+<h2 align="left">Hi 👋!<br>I'm Mahdin Islam Mukim and I'm still a student of Compuer Science & Engineering</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://scontent.fdac15-1.fna.fbcdn.net/v/t39.30808-6/327102429_510568847884875_6678349452013827826_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=1b51e3&_nc_eui2=AeHCxtHJeB_jaHnW8t0PEJSj-vVJYs9-XNn69Uliz35c2bH3R-m9XerBAqyGY3kYFhzlbzcdhdWEo6FLDo4scvfH&_nc_ohc=3x5V683UYmkAX_sFvgO&_nc_ht=scontent.fdac15-1.fna&oh=00_AfAtZZ-mj5j6hp8NRj7xWJ1lwM8Sd803R0k4jfmA2X85og&oe=6500C115"  />
+<img align="right" height="128" src="https://scontent.fdac15-1.fna.fbcdn.net/v/t39.30808-6/377466824_707704721373363_6409351078308589722_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=49d041&_nc_ohc=MmXdWJ5lkckAX-ct-9-&_nc_ht=scontent.fdac15-1.fna&oh=00_AfAPGQ2GFm65cShrmKdTIa0RFWTEZNy37yIl55PReT0RFw&oe=65006C44"  />
 
 ###
 
@@ -29,11 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
   <img width="12" />
@@ -48,8 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
@@ -69,5 +63,3 @@
 </div>
 
 ###
-
-
